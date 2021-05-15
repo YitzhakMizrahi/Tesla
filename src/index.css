@@ -20,6 +20,10 @@ body::-webkit-scrollbar {
   display: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 @keyframes animateDown {
   0%,
   20%,
